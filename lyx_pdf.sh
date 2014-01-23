@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 for var in "$@"
 do
   DIR="/home/$USER/phd/writings/$var"
